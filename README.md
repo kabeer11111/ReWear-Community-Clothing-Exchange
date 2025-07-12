@@ -5,7 +5,12 @@ Develop ReWear, a web-based platform that enables users to exchange unused cloth
 through direct swaps or a point-based redemption system. The goal is to promote sustainable
 fashion and reduce textile waste by encouraging users to reuse wearable garments instead of
 discarding them.
+
 Deployed Website Link:- https://v0-re-wear-community-platform.vercel.app
+
+Youtube Video Link:- https://youtu.be/8vdZoanSm-s
+
+Drive Video Link:- https://drive.google.com/file/d/1vVab5VzmpdCDTkGDXvhRhFS6u0B7IEQn/view?usp=sharing
 
 Features:
 User Authentication:-
