@@ -1,5 +1,10 @@
 # Problem Statement 3: -
-## ReWear – Community Clothing Exchange
+## ReWear – Community Clothing Exchange - by Kabeer Kapdi
+
+### Team Members:-
+Kabeer Kapdi (Individual Participation)
+
+
 ### Overview:
 Develop ReWear, a web-based platform that enables users to exchange unused clothing
 through direct swaps or a point-based redemption system. The goal is to promote sustainable
